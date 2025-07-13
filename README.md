@@ -98,7 +98,7 @@ The dataset includes 7 columns:
 
 | File/Asset | Description |
 |------------|-------------|
-| `Healthcare_Data.xlsx` | Cleaned & transformed dataset |
+| `Healthcare_Data.csv` | Cleaned & transformed dataset |
 | `PowerBI_Dashboard.pbix` | Interactive dashboard |
 | `Healthcare Data Analytics Project.pdf` | Full project report |
 | `README.md` | Project documentation |
